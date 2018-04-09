@@ -1,0 +1,23 @@
+*{
+	padding:0;
+	margin:0;
+	outline:none;
+}
+body{
+	font-family:'MicroSoft Yahei',verdana,arial,tahoma;
+	font-size:12px;
+	color:#333;
+	-webkit-text-size-adjust: none;
+}
+ul,ol,li{list-style:none}
+a{
+	text-decoration:none;
+	word-wrap:break-word;
+	outline:none;
+	transition:all 0.2s ease-in-out;
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-o-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+}
+a:hover{text-decoration:none;}
